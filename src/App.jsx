@@ -5,8 +5,8 @@ import Home from './pages/Home'
 import Journals from './pages/Journals'
 import TrackMood from './pages/TrackMood'
 import Profile from './pages/Profile'   
-import Signup from './pages/Signup'
-import Signin from './pages/Signin'
+import Signup from './pages/signup'
+import Signin from './pages/signin'
 import Extractaspdf from './pages/Extractaspdf'
 const App = () => {
   return (
